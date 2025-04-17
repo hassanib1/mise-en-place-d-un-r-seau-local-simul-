@@ -13,7 +13,7 @@ Ce projet a pour but de comprendre le fonctionnement des VLANs, du routage inter
 
 - 🖧 1 Routeur Cisco 2811
 - 🔀 `1 Switchs Cisco 2960
-- 🖥️ 2 PC (utilisateurs)
+- 🖥️ 4 PC (utilisateurs)
 
 ## 🗂️ Plan d’Adressage IP
 
